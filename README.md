@@ -174,4 +174,5 @@ This project demonstrates core engineering concepts used in production systems:
 The same architecture can support ML dataset preparation and large-scale data processing systems.
 
 ---
+K Vamsee Krishna
 3rd year Internship Project under the guidance of Dr. Amey Karkare, Professor - Department of CSE IIT Kanpur.
